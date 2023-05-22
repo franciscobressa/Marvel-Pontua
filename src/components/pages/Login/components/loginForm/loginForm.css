@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Epilogue:wght@800&family=Inter:wght@400;700;900&display=swap');
+
+.loginForm .title{
+  font-family: 'Epilogue';
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 37px;
+  letter-spacing: -0.065em;
+  color: #081B4E;
+  margin-bottom: 10px;
+}
+
+.loginForm input {
+  border: 2px solid #B7B7B7 !important;
+  height: 57px;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  font-size: 16px;
+  position: relative;
+  width: 98%;
+  font-family: 'Epilogue';
+  color: #B7B7B7;
+}
+
+.loginForm input:active {
+  border: 2px solid #293D71 !important;
+  color: #293D71;
+}
+
+input:focus {outline:0;
+  border: 2px solid #293D71 !important;
+  color: #293D71;
+}
+
+.loginLink a, .loginLink a .icon {
+  color: #F21A05;
+  text-decoration: none;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 11px;
+  text-align: right;
+  letter-spacing: -0.065em;
+  display: flex;
+  align-items: center;
+  justify-content: end;
+}

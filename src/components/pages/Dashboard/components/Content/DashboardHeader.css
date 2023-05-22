@@ -1,0 +1,26 @@
+.DashboardHeader {
+  background-color: #FFFFFF;
+  padding: 1em  2em;
+}
+
+.DashboardHeader input {
+  border: 2px solid #B7B7B7 !important;
+  height: 30px;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  font-size: 16px;
+  position: relative;
+  width: 98%;
+  font-family: 'Epilogue';
+  color: #B7B7B7;
+}
+
+.DashboardHeader input:active {
+  border: 2px solid #293D71 !important;
+  color: #293D71;
+}
+
+.DashboardHeader input:focus {outline:0;
+  border: 2px solid #293D71 !important;
+  color: #293D71;
+}

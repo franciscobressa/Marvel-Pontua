@@ -1,0 +1,17 @@
+button {
+  background: #081B4E;
+  padding: 16px 0;
+  gap: 10px;
+  width: 100%;
+  border-radius: 10px;
+  font-family: 'Epilogue';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 25px;
+  letter-spacing: -0.065em;
+  color: #FBFBFB;
+  display: flex;
+  justify-content: center;
+  box-shadow: none !important;
+}

@@ -1,0 +1,13 @@
+body {
+  margin: 0 !important;
+  background-color: #00113d;
+}
+
+.loginPage {
+  height: 100vh;
+}
+
+.loginContent {
+  padding: 0 5em;
+}
+
